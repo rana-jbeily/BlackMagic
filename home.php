@@ -1,2 +1,8 @@
 <?php
-echo "I'm here";
+echo "I'm at the home.php";
+
+?>
+
+<htm>
+  <body>Hello</body>
+</htm>
